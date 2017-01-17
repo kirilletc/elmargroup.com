@@ -1,0 +1,27 @@
+HTTrack3.48-22+htsswf+htsjava launched on Thu, 03 Nov 2016 20:09:42 at http://xn--51-kmcmn.xn--p1ai/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qir20%e3C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" http://xn--51-kmcmn.xn--p1ai/ -O1 "C:\Мои Web Сайты\svadba" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:09:48	Warning: 	Unexpected 412/416 error (Requested Range Not Satisfiable) for xn--51-kmcmn.xn--p1ai/css/owl.carousel.css, 'C:/Мои Web Сайты/svadba/цру51.рф/css/owl.carousel.html' could not be found on disk
+20:10:08	Error: 	"Error when decompressing" (-1) at link https://vk.com/vipprazdnik51 (from xn--51-kmcmn.xn--p1ai/)
+20:10:18	Error: 	Unable to save file C:/Мои Web Сайты/svadba/vk.com/js/loader_nav784645710539_0.js: No such file or directory
+20:10:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 6205 got 0): https://vk.com/js/loader_nav784645710539_0.js
+20:11:40	Warning: 	Note: due to busines-up.ru remote robots.txt rules, links beginning with these path will be forbidden: /jobs/, /aero/, /aero-deti/, /aero-sertifikate/, /aero-group/, /backup/, /bidder/, /popup_scroll.php, /popup.php, /context/, /popup_rew_03.html (see in the options to disable this)
+20:12:32	Error: 	Unable to save file C:/Мои Web Сайты/svadba/usocial.pro/usocial/usocial28b5.js: No such file or directory
+20:13:17	Error: 	"Not Found" (404) at link xn--51-kmcmn.xn--p1ai/img/next_prew.png (from xn--51-kmcmn.xn--p1ai/css/owl.theme.css)
+20:13:17	Error: 	"Not Found" (404) at link xn--51-kmcmn.xn--p1ai/css/AjaxLoader.gif (from xn--51-kmcmn.xn--p1ai/css/owl.theme.css)
+20:13:18	Warning: 	File not parsed, looks like binary: xn--51-kmcmn.xn--p1ai/fonts/glyphicons-halflings-regular.eot
+20:13:18	Warning: 	File not parsed, looks like binary: xn--51-kmcmn.xn--p1ai/fonts/glyphicons-halflings-regular.eot?
+20:13:18	Warning: 	File not parsed, looks like binary: xn--51-kmcmn.xn--p1ai/fonts/glyphicons-halflings-regular.woff2
+20:13:19	Warning: 	File not parsed, looks like binary: xn--51-kmcmn.xn--p1ai/fonts/glyphicons-halflings-regular.woff
+20:13:19	Warning: 	File not parsed, looks like binary: xn--51-kmcmn.xn--p1ai/fonts/glyphicons-halflings-regular.ttf
+20:13:31	Error: 	"Error when decompressing" (-1) at link https://vk.com/css/al/common.css?3516944840 (from https://vk.com/fis_fis51)
+20:14:02	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 6205 expected)) at link https://vk.com/js/loader_nav784645710539_0.js (from https://vk.com/fis_fis51)
+20:14:02	Error: 	"Error when decompressing" (-1) at link https://vk.com/js/al/common.js?1138_3780894418 (from https://vk.com/fis_fis51)
+20:14:02	Error: 	"Not Found" (404) at link https://vk.com/android-app://com.vkontakte.android/vkontakte/m.vk.com/fis_fis51 (from https://vk.com/fis_fis51)
+20:32:58	Error: 	"Error when decompressing" (-1) at link busines-up.ru/css/bootstrap.min.css (from busines-up.ru/)
+20:34:44	Error: 	"Error when decompressing" (-1) at link vk.com/js/api/openapi.js?121 (from busines-up.ru/)

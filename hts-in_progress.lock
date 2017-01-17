@@ -1,0 +1,5 @@
+Mirror in progress since Thu, 03 Nov 2016 20:09:42 .. please wait!
+winhttrack -qir20%e3C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" http://xn--51-kmcmn.xn--p1ai/ -O1 ""C:\Мои Web Сайты\svadba"" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=4396
+START=1478192982
